@@ -20,7 +20,7 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     
-    [croppingImageView setImage:[UIImage imageNamed:@"cropping_sample.jpg"]];
+    [croppingImageView setImage:[UIImage imageNamed:@"cropping_sample.JPG"]];
     CGRect rect1 = CGRectMake(0, 0, croppingImageView.image.size.width, croppingImageView.image.size.height);
     CGRect rect2 = croppingImageView.frame;
     [croppingImageView setFrame:[MZCroppableView scaleRespectAspectFromRect1:rect1 toRect2:rect2]];
