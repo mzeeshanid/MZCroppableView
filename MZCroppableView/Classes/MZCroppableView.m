@@ -127,6 +127,10 @@
     
     maskedImage = [UIImage imageWithCGImage:imageRef];
     
+    // Release the imageRef to prevent a memory leak. CG classes don't use ARC
+    CGImageRelease(imageRef);
+    imageRef = NULL;
+    
     return maskedImage;
 }
 #pragma mark - Touch Methods -
