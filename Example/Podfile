@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MZCroppableView_Example', :exclusive => true do
+  pod 'MZCroppableView', :path => '../'
+end
+
+target 'MZCroppableView_Tests', :exclusive => true do
+  pod 'MZCroppableView', :path => '../'
+
+  
+end

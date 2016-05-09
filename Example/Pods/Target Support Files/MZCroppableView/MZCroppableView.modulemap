@@ -1,0 +1,6 @@
+framework module MZCroppableView {
+  umbrella header "MZCroppableView-umbrella.h"
+
+  export *
+  module * { export * }
+}

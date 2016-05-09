@@ -1,0 +1,14 @@
+PODS:
+  - MZCroppableView (0.1.0)
+
+DEPENDENCIES:
+  - MZCroppableView (from `../`)
+
+EXTERNAL SOURCES:
+  MZCroppableView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MZCroppableView: 363a33f65aa0f6c98f4fee0fd07b796ceb3a5d09
+
+COCOAPODS: 0.39.0
