@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  MZCroppableView: 363a33f65aa0f6c98f4fee0fd07b796ceb3a5d09
+  MZCroppableView: e58bae623ae6b727ec819fc03daaf6ae0dec3232
 
 COCOAPODS: 0.39.0

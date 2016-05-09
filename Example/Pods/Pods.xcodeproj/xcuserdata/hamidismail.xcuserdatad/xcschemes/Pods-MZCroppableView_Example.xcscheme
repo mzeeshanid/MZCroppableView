@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '1FB1B685F82B8428102E3187'
+               BlueprintIdentifier = 'AF72A9BB427AD80FE6F10D38'
                BlueprintName = 'Pods-MZCroppableView_Example'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'Pods_MZCroppableView_Example.framework'>

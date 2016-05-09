@@ -17,7 +17,6 @@
     "ios": "8.0"
   },
   "source_files": "MZCroppableView/Classes/**/*",
-  "public_header_files": "Pod/Classes/**/*.h",
   "frameworks": [
     "UIKit",
     "Foundation"
